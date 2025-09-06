@@ -1,0 +1,5 @@
+name: aeJoinCommands
+version: 1.0
+author: toprakates
+main: me.toprak.aejoincommands.AEJoinCommands
+api-version: 1.21

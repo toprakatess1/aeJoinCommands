@@ -1,0 +1,4 @@
+# Oyuncu ilk girdiğinde çalışacak komutlar
+first-join-commands:
+  - "lp user %player% permission set bossbar.show.ads"
+  - "lp user %player% permission set background.music"
